@@ -1,5 +1,7 @@
 {
   "name": "bind",
+  "repo": "lge88/bind",
+  "upstream": "git://github.com/component/bind.git",
   "version": "0.0.1",
   "description": "function binding utility",
   "keywords": ["bind", "utility"],
